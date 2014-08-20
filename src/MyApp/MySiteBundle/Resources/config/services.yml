@@ -1,0 +1,7 @@
+parameters:
+#    my_site.example.class: MyApp\MySiteBundle\Example
+
+services:
+#    my_site.example:
+#        class: %my_site.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

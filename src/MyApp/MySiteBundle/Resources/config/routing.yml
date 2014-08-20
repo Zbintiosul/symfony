@@ -1,0 +1,3 @@
+my_site_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MySiteBundle:Default:index }
